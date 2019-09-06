@@ -1,6 +1,6 @@
 title: Signo Movimiento # The title of the blog
 author: Daniel # Your name 
-email: your-email@domain.com # your email shown in the footer
+email: daniel@escobar.eu.org # your email shown in the footer
 url: https://daeshu.github.io/be/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   Apuntes personales...
@@ -8,8 +8,6 @@ favicon: "./favicon.ico" # set the favicon of the site
 
 show_excerpts: false # set to true to show excerpts on the homepage
   
-# Moving date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
   avatar_url: "https://i.loli.net/2019/08/26/JzCLhDWPEybZr2T.jpg" # avatar in about page
   about_you: a short description about you. # short description about you in about page
@@ -33,13 +31,6 @@ moving:
     # telegram: 
     # googleplus: 
     # microdotblog: 
-
-    # Mastodon instances
-    # mastodon:
-    # - username: 
-    #   instance: 
-    # - username: 
-    #   instance: 
 
 # Build settings
 theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
